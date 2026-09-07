@@ -95,7 +95,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.0)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.0)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.1.0)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.0)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   common/debugger:
     dependencies:
@@ -327,8 +327,8 @@ importers:
         specifier: ^0.0.1
         version: 0.0.1(eslint@10.5.0(jiti@2.7.0))
       happy-dom:
-        specifier: 20.10.6
-        version: 20.10.6
+        specifier: 20.14.0
+        version: 20.14.0
       javascript-obfuscator:
         specifier: ^5.4.3
         version: 5.4.3
@@ -352,10 +352,10 @@ importers:
         version: 0.22.3(@tsdown/css@0.22.3)(oxc-resolver@11.21.3)(tsx@4.22.4)(typescript@6.0.3)(unrun@0.2.35(synckit@0.11.13))(vue-tsc@3.3.6(typescript@6.0.3))
       unplugin-vue:
         specifier: ^7.2.0
-        version: 7.2.0(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(vue@3.5.39(typescript@6.0.3))(yaml@2.9.0)
+        version: 7.2.0(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(vue@3.5.39(typescript@6.0.3))(yaml@2.9.0)
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
     devDependencies:
       '@univerjs/icons':
         specifier: 1.34.0
@@ -377,7 +377,7 @@ importers:
         version: 5.2.1(storybook@10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8))
       '@storybook/addon-docs':
         specifier: ^10.4.6
-        version: 10.4.6(@types/react-dom@19.2.3(@types/react@19.2.17))(@types/react@19.2.17)(esbuild@0.28.1)(rollup@4.55.1)(storybook@10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8))(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))(webpack@5.106.2(@swc/core@1.13.5)(esbuild@0.28.1))
+        version: 10.4.6(@types/react-dom@19.2.3(@types/react@19.2.17))(@types/react@19.2.17)(esbuild@0.28.1)(rollup@4.55.1)(storybook@10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8))(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))(webpack@5.106.2(@swc/core@1.13.5)(esbuild@0.28.1))
       '@storybook/addon-links':
         specifier: ^10.4.6
         version: 10.4.6(@types/react@19.2.17)(react@19.2.8)(storybook@10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8))
@@ -681,7 +681,7 @@ importers:
         version: 19.2.8(react@19.2.8)
       react-mosaic-component:
         specifier: ^6.2.0
-        version: 6.2.0(@types/node@26.1.1)(@types/react@19.2.17)(dnd-core@16.0.1)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
+        version: 6.2.0(@types/node@26.4.1)(@types/react@19.2.17)(dnd-core@16.0.1)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       rxjs:
         specifier: ^7.8.2
         version: 7.8.2
@@ -773,7 +773,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/core:
     dependencies:
@@ -825,7 +825,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/data-validation:
     dependencies:
@@ -850,7 +850,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/design:
     dependencies:
@@ -929,7 +929,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/docs:
     dependencies:
@@ -951,7 +951,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/docs-drawing:
     dependencies:
@@ -976,7 +976,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/docs-drawing-ui:
     dependencies:
@@ -1031,7 +1031,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/docs-hyper-link:
     dependencies:
@@ -1047,7 +1047,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/docs-hyper-link-ui:
     dependencies:
@@ -1096,7 +1096,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/docs-mention-ui:
     dependencies:
@@ -1139,7 +1139,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/docs-quick-insert-ui:
     dependencies:
@@ -1197,7 +1197,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/docs-thread-comment-ui:
     dependencies:
@@ -1246,7 +1246,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/docs-ui:
     dependencies:
@@ -1298,7 +1298,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/drawing:
     dependencies:
@@ -1320,7 +1320,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/drawing-ui:
     dependencies:
@@ -1363,7 +1363,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/engine-formula:
     dependencies:
@@ -1391,7 +1391,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/engine-render:
     dependencies:
@@ -1434,7 +1434,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/find-replace:
     dependencies:
@@ -1474,7 +1474,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/network:
     dependencies:
@@ -1493,7 +1493,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/protocol:
     dependencies:
@@ -1512,7 +1512,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/rpc:
     dependencies:
@@ -1531,7 +1531,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/rpc-node:
     dependencies:
@@ -1553,7 +1553,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets:
     dependencies:
@@ -1587,7 +1587,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-conditional-formatting:
     dependencies:
@@ -1621,7 +1621,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-conditional-formatting-ui:
     dependencies:
@@ -1679,7 +1679,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-crosshair-highlight:
     dependencies:
@@ -1725,7 +1725,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-data-validation:
     dependencies:
@@ -1759,7 +1759,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-data-validation-ui:
     dependencies:
@@ -1820,7 +1820,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-drawing:
     dependencies:
@@ -1845,7 +1845,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-drawing-ui:
     dependencies:
@@ -1906,7 +1906,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-filter:
     dependencies:
@@ -1937,7 +1937,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-filter-ui:
     dependencies:
@@ -1992,7 +1992,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-find-replace:
     dependencies:
@@ -2023,7 +2023,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-formula:
     dependencies:
@@ -2057,7 +2057,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-formula-ui:
     dependencies:
@@ -2115,7 +2115,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-hyper-link:
     dependencies:
@@ -2143,7 +2143,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-hyper-link-ui:
     dependencies:
@@ -2207,7 +2207,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-note:
     dependencies:
@@ -2238,7 +2238,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-note-ui:
     dependencies:
@@ -2287,7 +2287,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-numfmt:
     dependencies:
@@ -2312,7 +2312,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-numfmt-ui:
     dependencies:
@@ -2364,7 +2364,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-sort:
     dependencies:
@@ -2386,7 +2386,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-sort-ui:
     dependencies:
@@ -2438,7 +2438,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-table:
     dependencies:
@@ -2469,7 +2469,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-table-ui:
     dependencies:
@@ -2527,7 +2527,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-thread-comment:
     dependencies:
@@ -2555,7 +2555,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-thread-comment-ui:
     dependencies:
@@ -2610,7 +2610,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/sheets-ui:
     dependencies:
@@ -2671,7 +2671,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/slides:
     dependencies:
@@ -2693,7 +2693,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/slides-ui:
     dependencies:
@@ -2745,7 +2745,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/telemetry:
     dependencies:
@@ -2761,7 +2761,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/themes:
     devDependencies:
@@ -2786,7 +2786,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/thread-comment-ui:
     dependencies:
@@ -2832,7 +2832,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/ui:
     dependencies:
@@ -2884,7 +2884,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/ui-adapter-vue3:
     dependencies:
@@ -2903,7 +2903,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
       vue:
         specifier: ^3.5.39
         version: 3.5.39(typescript@6.0.3)
@@ -2925,7 +2925,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   packages/watermark:
     dependencies:
@@ -2947,7 +2947,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
   presets:
     dependencies:
@@ -3677,7 +3677,7 @@ importers:
         version: 6.0.3
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+        version: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
 
 packages:
 
@@ -4614,6 +4614,12 @@ packages:
     peerDependencies:
       eslint: ^6.0.0 || ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0
 
+  '@eslint-community/eslint-utils@4.10.1':
+    resolution: {integrity: sha512-cuadcxVFE8sDK6iWJbs8Sn0av2Nrh2QSGQhVlBW9AaAHqHwjWsZHT8LJ4hFGPh7ASBV2deFdM7H/DPjulmh8rg==}
+    engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
+    peerDependencies:
+      eslint: ^6.0.0 || ^7.0.0 || >=8.0.0
+
   '@eslint-community/eslint-utils@4.9.1':
     resolution: {integrity: sha512-phrYmNiYppR7znFEdqgfWHXR6NCkZEK7hwWDHZUjit/2/U0r6XvkDl0SYnoM51Hq7FhCGdLDT6zxCCOY1hexsQ==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
@@ -4871,6 +4877,13 @@ packages:
     peerDependencies:
       '@emnapi/core': ^1.7.1
       '@emnapi/runtime': ^1.7.1
+
+  '@napi-rs/wasm-runtime@1.2.3':
+    resolution: {integrity: sha512-UMduMbqO5s5zF2NkNacMT/yK5Y5QiKvWr2+50bzIIxFDwVJ2h49b+oyjaCGPhJxd2/gC2x39EHv/gHVuu36x2Q==}
+    engines: {node: ^20.19.0 || ^22.13.0 || >=23.5.0}
+    peerDependencies:
+      '@emnapi/core': ^1.7.1 || ^2.0.0-alpha.4
+      '@emnapi/runtime': ^1.7.1 || ^2.0.0-alpha.4
 
   '@neoconfetti/react@1.0.0':
     resolution: {integrity: sha512-klcSooChXXOzIm+SE5IISIAn3bYzYfPjbX7D7HoqZL84oAfgREeSg5vSIaSFH+DaGzzvImTyWe1OyrJ67vik4A==}
@@ -6583,14 +6596,14 @@ packages:
   '@types/ms@2.1.0':
     resolution: {integrity: sha512-GsCCIZDE/p3i96vtEqx+7dBUGXrc7zeSK3wwPHIaRThS+9OhWIXRqzs4d6k1SVU8g91DrNRWxWUGhp5KXQb2VA==}
 
-  '@types/node@22.19.19':
-    resolution: {integrity: sha512-dyh/xO2Fh5bYrfWaaqGrRQQGkNdmYw6AmaAUvYeUMNTWQtvb796ikLdmTchRmOlOiIJ1TDXfWgVx1QkUlQ6Hew==}
+  '@types/node@22.20.1':
+    resolution: {integrity: sha512-EANqOCF9QFyra+4pfxUcX9STKJpCLjMbObVzljIJomAWSnuSIEAvyzEU53GaajbXJEgdh0iEcPL+DGvpUd4k1Q==}
 
   '@types/node@26.1.0':
     resolution: {integrity: sha512-O0A1G3xPGy4w7AgQdAQYUlQ+BKk2Oovw8eRpofyp5KdBZULnbe+WqaOVNrm705SHphCiG4XHsACrSmPu1f+Kgw==}
 
-  '@types/node@26.1.1':
-    resolution: {integrity: sha512-nxAkRSVkN1Y0JC1W8ky/fTfkGsMmcrRsbx+3XoZE+rMOX71kLYTV7fLXpqud1GpbpP5TuffXFqfX7fH2GgZREw==}
+  '@types/node@26.4.1':
+    resolution: {integrity: sha512-k97ENvZWtvA6yqz5/FS6a7duDgOPEeOQOc2iKS/nY6mX6qJUKtLnWzQS+Xj6tXweyj6ZcTAK2Qecetnvi9nCLA==}
 
   '@types/opentype.js@1.3.10':
     resolution: {integrity: sha512-F67EFyk6j02okHz5JCgata3ZRAcZi9GLnzmkHw/rzJq3OCc8/ZVdoKrxMTYjcQP6IYHGBz2cav1cpzkOkPiPCQ==}
@@ -7151,12 +7164,12 @@ packages:
     resolution: {integrity: sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==}
     engines: {node: '>=8'}
 
-  ansi-regex@6.1.0:
-    resolution: {integrity: sha512-7HSX4QQb4CspciLpVFwyRe79O3xsIZDDLER21kERQ71oaPodF8jL725AgJMFAYbooIqolJoRLuM81SpeUkpkvA==}
-    engines: {node: '>=12'}
-
   ansi-regex@6.2.2:
     resolution: {integrity: sha512-Bq3SmSpyFHaWjPk8If9yc6svM8c56dB5BAtW4Qbw5jHTwwXXcTLoRMkpDJp6VL0XzlWaCHTXrkFURMYmD0sLqg==}
+    engines: {node: '>=12'}
+
+  ansi-regex@6.3.0:
+    resolution: {integrity: sha512-WpDfL7NO6j7tH88IDBNVdUJxDh9nmCteAVW9dsep846XdwF4naCBK+/tGLX3KJgcpgMRXCFlTM2hKGoK9FsdrQ==}
     engines: {node: '>=12'}
 
   ansi-styles@4.3.0:
@@ -7341,6 +7354,10 @@ packages:
   brace-expansion@5.0.5:
     resolution: {integrity: sha512-VZznLgtwhn+Mact9tfiwx64fA9erHH/MCXEUfB/0bX/6Fz6ny5EGTXYltMocqg4xFAQZtnO3DHWWXi8RiuN7cQ==}
     engines: {node: 18 || 20 || >=22}
+
+  brace-expansion@5.0.9:
+    resolution: {integrity: sha512-ScQ4IuvIEF1TMlP7Zt+vjJ//9zlPb2SDcxWxM3bk8s6t6GGdJ7KO1dCcTidOPJKePW30LE/2cT7wCyPho9/Wxg==}
+    engines: {node: 20 || >=22}
 
   braces@3.0.3:
     resolution: {integrity: sha512-yQbXgO/OSZVD2IsiLlro+7Hf6Q18EJrKSEsdoMzKePKXct3gvD8oLcOQdIzGupr5Fj+EDe8gO/lxc1BzfMpxvA==}
@@ -8663,7 +8680,7 @@ packages:
 
   glob@7.2.3:
     resolution: {integrity: sha512-nFR0zLpU2YCaRxwoCJvL6UvCH2JFyFVIvwTLsIf21AuHlMskA1hhTdk+LlYJtOlYt9v6dvszD2BGRqBL+iQK9Q==}
-    deprecated: Glob versions prior to v9 are no longer supported
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
 
   global-directory@5.0.0:
     resolution: {integrity: sha512-1pgFdhK3J2LeM+dVf2Pd424yHx2ou338lC0ErNP2hPx4j8eW1Sp0XqSjNxtk6Tc4Kr5wlWtSvz8cn2yb7/SG/w==}
@@ -8695,8 +8712,8 @@ packages:
   graceful-fs@4.2.11:
     resolution: {integrity: sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==}
 
-  happy-dom@20.10.6:
-    resolution: {integrity: sha512-6QD0ilzDDt93tX44y8tbmZdAcdTRYDhUP+Asgi6pC8Pp5IA3cvaZGyoVN/EGtlq9ziT65iPuBBn3ASLr6hCgVw==}
+  happy-dom@20.14.0:
+    resolution: {integrity: sha512-4bRh1KzRvKDnFNTlLhzT1RZTpkKhQbQDl9j+7GXszWsvuspYdo29k6OHRf4PwiM6oLb8r/pMWeYiJjkfod5AvQ==}
     engines: {node: '>=20.0.0'}
 
   has-bigints@1.1.0:
@@ -9562,6 +9579,10 @@ packages:
     resolution: {integrity: sha512-MULkVLfKGYDFYejP07QOurDLLQpcjk7Fw+7jXS2R2czRQzR56yHRveU5NDJEOviH+hETZKSkIk5c+T23GjFUMg==}
     engines: {node: 18 || 20 || >=22}
 
+  minimatch@10.2.6:
+    resolution: {integrity: sha512-vpLQEs+VLCr1nU0BXS07maYoFwlDAH0gngQuuttxIwutDFEMHq2blX+8vpgxDdK3J1PwjCJiep77OitTZ4Ll1A==}
+    engines: {node: 18 || 20 || >=22}
+
   minimatch@3.1.2:
     resolution: {integrity: sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==}
 
@@ -9883,6 +9904,10 @@ packages:
 
   picomatch@4.0.5:
     resolution: {integrity: sha512-RvwwcruNjI1ncT5xRakeyS9Lf8lcItv34KD+aif+VH9kduAyfYBipGh12274xtenIPZ119/R9BdTBa8gAwSh0A==}
+    engines: {node: '>=12'}
+
+  picomatch@4.0.7:
+    resolution: {integrity: sha512-qcJu88Q2IWqJsDD529JKMdwGm/dvInW4HvQnRwiH9JtihJvzGOscDtHE3x1pBKeUOTysQ8kVmLnJ2kJu7yhcGA==}
     engines: {node: '>=12'}
 
   pify@2.3.0:
@@ -11501,8 +11526,8 @@ packages:
       utf-8-validate:
         optional: true
 
-  ws@8.21.1:
-    resolution: {integrity: sha512-+0NTnW77fFN/DjQi6k/Sq/Yvk4Sgajw7urW8V+asjXnRgDs9gyGkdb7EzgfhA4goXsRIZKE28fzIXBHEzhuiWw==}
+  ws@8.21.3:
+    resolution: {integrity: sha512-201TZ/kPWxoPr/OKWjquZR1SWKXcvxdH+e1xrx89b3YbmzLMFCLfnaG1HFIgWzJOEWZ7MvpK++odZufgYR50Rw==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
@@ -12575,6 +12600,11 @@ snapshots:
       eslint: 10.5.0(jiti@2.7.0)
       ignore: 7.0.5
 
+  '@eslint-community/eslint-utils@4.10.1(eslint@10.5.0(jiti@2.7.0))':
+    dependencies:
+      eslint: 10.5.0(jiti@2.7.0)
+      eslint-visitor-keys: 3.4.3
+
   '@eslint-community/eslint-utils@4.9.1(eslint@10.5.0(jiti@2.7.0))':
     dependencies:
       eslint: 10.5.0(jiti@2.7.0)
@@ -12908,7 +12938,7 @@ snapshots:
       '@tybys/wasm-util': 0.10.3
     optional: true
 
-  '@napi-rs/wasm-runtime@1.1.6(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)':
+  '@napi-rs/wasm-runtime@1.2.3(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)':
     dependencies:
       '@emnapi/core': 1.9.2
       '@emnapi/runtime': 1.9.2
@@ -13656,7 +13686,7 @@ snapshots:
     dependencies:
       '@emnapi/core': 1.9.2
       '@emnapi/runtime': 1.9.2
-      '@napi-rs/wasm-runtime': 1.1.6(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)
+      '@napi-rs/wasm-runtime': 1.2.3(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)
     optional: true
 
   '@rolldown/binding-wasm32-wasi@1.0.0-rc.18':
@@ -13792,7 +13822,7 @@ snapshots:
   '@simple-libs/child-process-utils@1.0.1':
     dependencies:
       '@simple-libs/stream-utils': 1.2.0
-      '@types/node': 22.19.19
+      '@types/node': 22.20.1
 
   '@simple-libs/stream-utils@1.2.0': {}
 
@@ -13802,10 +13832,10 @@ snapshots:
 
   '@standard-schema/spec@1.1.0': {}
 
-  '@storybook/addon-docs@10.4.6(@types/react-dom@19.2.3(@types/react@19.2.17))(@types/react@19.2.17)(esbuild@0.28.1)(rollup@4.55.1)(storybook@10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8))(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))(webpack@5.106.2(@swc/core@1.13.5)(esbuild@0.28.1))':
+  '@storybook/addon-docs@10.4.6(@types/react-dom@19.2.3(@types/react@19.2.17))(@types/react@19.2.17)(esbuild@0.28.1)(rollup@4.55.1)(storybook@10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8))(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))(webpack@5.106.2(@swc/core@1.13.5)(esbuild@0.28.1))':
     dependencies:
       '@mdx-js/react': 3.1.1(@types/react@19.2.17)(react@19.2.8)
-      '@storybook/csf-plugin': 10.4.6(esbuild@0.28.1)(rollup@4.55.1)(storybook@10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8))(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))(webpack@5.106.2(@swc/core@1.13.5)(esbuild@0.28.1))
+      '@storybook/csf-plugin': 10.4.6(esbuild@0.28.1)(rollup@4.55.1)(storybook@10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8))(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))(webpack@5.106.2(@swc/core@1.13.5)(esbuild@0.28.1))
       '@storybook/icons': 2.1.0(react@19.2.8)
       '@storybook/react-dom-shim': 10.4.6(@types/react-dom@19.2.3(@types/react@19.2.17))(@types/react@19.2.17)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(storybook@10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8))
       react: 19.2.8
@@ -13875,14 +13905,14 @@ snapshots:
       storybook: 10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8)
       ts-dedent: 2.2.0
 
-  '@storybook/csf-plugin@10.4.6(esbuild@0.28.1)(rollup@4.55.1)(storybook@10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8))(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))(webpack@5.106.2(@swc/core@1.13.5)(esbuild@0.28.1))':
+  '@storybook/csf-plugin@10.4.6(esbuild@0.28.1)(rollup@4.55.1)(storybook@10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8))(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))(webpack@5.106.2(@swc/core@1.13.5)(esbuild@0.28.1))':
     dependencies:
       storybook: 10.4.6(@testing-library/dom@10.4.0)(@types/react@19.2.17)(prettier@3.8.1)(react@19.2.8)
       unplugin: 2.3.11
     optionalDependencies:
       esbuild: 0.28.1
       rollup: 4.55.1
-      vite: 8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)
+      vite: 8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)
       webpack: 5.106.2(@swc/core@1.13.5)(esbuild@0.28.1)
 
   '@storybook/global@5.0.0': {}
@@ -14198,7 +14228,7 @@ snapshots:
 
   '@types/ms@2.1.0': {}
 
-  '@types/node@22.19.19':
+  '@types/node@22.20.1':
     dependencies:
       undici-types: 6.21.0
 
@@ -14206,7 +14236,7 @@ snapshots:
     dependencies:
       undici-types: 8.3.0
 
-  '@types/node@26.1.1':
+  '@types/node@26.4.1':
     dependencies:
       undici-types: 8.3.0
 
@@ -14236,7 +14266,7 @@ snapshots:
 
   '@types/stylus@0.48.43':
     dependencies:
-      '@types/node': 26.1.0
+      '@types/node': 26.4.1
 
   '@types/trusted-types@2.0.7': {}
 
@@ -14248,7 +14278,7 @@ snapshots:
 
   '@types/ws@8.18.1':
     dependencies:
-      '@types/node': 26.1.1
+      '@types/node': 26.4.1
 
   '@typescript-eslint/eslint-plugin@8.60.1(@typescript-eslint/parser@8.60.0(eslint@10.5.0(jiti@2.7.0))(typescript@6.0.3))(eslint@10.5.0(jiti@2.7.0))(typescript@6.0.3)':
     dependencies:
@@ -14427,7 +14457,7 @@ snapshots:
       '@typescript-eslint/types': 8.56.1
       '@typescript-eslint/visitor-keys': 8.56.1
       debug: 4.4.3
-      minimatch: 10.2.5
+      minimatch: 10.2.6
       semver: 7.8.5
       tinyglobby: 0.2.17
       ts-api-utils: 2.5.0(typescript@6.0.3)
@@ -14482,7 +14512,7 @@ snapshots:
 
   '@typescript-eslint/utils@8.56.1(eslint@10.5.0(jiti@2.7.0))(typescript@6.0.3)':
     dependencies:
-      '@eslint-community/eslint-utils': 4.9.1(eslint@10.5.0(jiti@2.7.0))
+      '@eslint-community/eslint-utils': 4.10.1(eslint@10.5.0(jiti@2.7.0))
       '@typescript-eslint/scope-manager': 8.56.1
       '@typescript-eslint/types': 8.56.1
       '@typescript-eslint/typescript-estree': 8.56.1(typescript@6.0.3)
@@ -14592,7 +14622,7 @@ snapshots:
       magicast: 0.5.3
       obug: 2.1.3
       tinyrainbow: 3.1.0
-      vitest: 4.1.10(@types/node@26.1.0)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.0)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+      vitest: 4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
     transitivePeerDependencies:
       - supports-color
 
@@ -14604,7 +14634,7 @@ snapshots:
     optionalDependencies:
       '@typescript-eslint/eslint-plugin': 8.60.1(@typescript-eslint/parser@8.60.0(eslint@10.5.0(jiti@2.7.0))(typescript@6.0.3))(eslint@10.5.0(jiti@2.7.0))(typescript@6.0.3)
       typescript: 6.0.3
-      vitest: 4.1.10(@types/node@26.1.0)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.0)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+      vitest: 4.1.10(@types/node@26.1.0)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.0)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
     transitivePeerDependencies:
       - supports-color
 
@@ -14633,13 +14663,13 @@ snapshots:
     optionalDependencies:
       vite: 8.0.11(@types/node@26.1.0)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)
 
-  '@vitest/mocker@4.1.10(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))':
+  '@vitest/mocker@4.1.10(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))':
     dependencies:
       '@vitest/spy': 4.1.10
       estree-walker: 3.0.3
       magic-string: 0.30.21
     optionalDependencies:
-      vite: 8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)
+      vite: 8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)
 
   '@vitest/pretty-format@3.2.4':
     dependencies:
@@ -14937,9 +14967,9 @@ snapshots:
 
   ansi-regex@5.0.1: {}
 
-  ansi-regex@6.1.0: {}
-
   ansi-regex@6.2.2: {}
+
+  ansi-regex@6.3.0: {}
 
   ansi-styles@4.3.0:
     dependencies:
@@ -15128,6 +15158,10 @@ snapshots:
     dependencies:
       balanced-match: 4.0.4
 
+  brace-expansion@5.0.9:
+    dependencies:
+      balanced-match: 4.0.4
+
   braces@3.0.3:
     dependencies:
       fill-range: 7.1.1
@@ -15168,7 +15202,7 @@ snapshots:
 
   buffer-image-size@0.6.4:
     dependencies:
-      '@types/node': 26.1.1
+      '@types/node': 26.4.1
 
   builtin-modules@5.0.0: {}
 
@@ -16691,15 +16725,15 @@ snapshots:
 
   graceful-fs@4.2.11: {}
 
-  happy-dom@20.10.6:
+  happy-dom@20.14.0:
     dependencies:
-      '@types/node': 26.1.1
+      '@types/node': 26.4.1
       '@types/whatwg-mimetype': 3.0.2
       '@types/ws': 8.18.1
       buffer-image-size: 0.6.4
       entities: 7.0.1
       whatwg-mimetype: 3.0.0
-      ws: 8.21.1
+      ws: 8.21.3
     transitivePeerDependencies:
       - bufferutil
       - utf-8-validate
@@ -17079,7 +17113,7 @@ snapshots:
 
   jest-worker@27.5.1:
     dependencies:
-      '@types/node': 26.1.0
+      '@types/node': 26.4.1
       merge-stream: 2.0.0
       supports-color: 8.1.1
 
@@ -17738,6 +17772,10 @@ snapshots:
     dependencies:
       brace-expansion: 5.0.5
 
+  minimatch@10.2.6:
+    dependencies:
+      brace-expansion: 5.0.9
+
   minimatch@3.1.2:
     dependencies:
       brace-expansion: 1.1.11
@@ -18101,6 +18139,9 @@ snapshots:
   picomatch@4.0.4: {}
 
   picomatch@4.0.5: {}
+
+  picomatch@4.0.7:
+    optional: true
 
   pify@2.3.0: {}
 
@@ -18516,7 +18557,7 @@ snapshots:
       '@protobufjs/path': 1.1.2
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
-      '@types/node': 26.1.0
+      '@types/node': 26.4.1
       long: 5.3.2
 
   punycode@2.3.1: {}
@@ -18556,26 +18597,26 @@ snapshots:
     dependencies:
       dnd-core: 16.0.1
 
-  react-dnd-multi-backend@8.1.2(dnd-core@16.0.1)(react-dnd@16.0.1(@types/node@26.1.1)(@types/react@19.2.17)(react@19.2.8))(react-dom@19.2.8(react@19.2.8))(react@19.2.8):
+  react-dnd-multi-backend@8.1.2(dnd-core@16.0.1)(react-dnd@16.0.1(@types/node@26.4.1)(@types/react@19.2.17)(react@19.2.8))(react-dom@19.2.8(react@19.2.8))(react@19.2.8):
     dependencies:
       dnd-core: 16.0.1
       dnd-multi-backend: 8.1.2(dnd-core@16.0.1)
       react: 19.2.8
-      react-dnd: 16.0.1(@types/node@26.1.1)(@types/react@19.2.17)(react@19.2.8)
-      react-dnd-preview: 8.1.2(react-dnd@16.0.1(@types/node@26.1.1)(@types/react@19.2.17)(react@19.2.8))(react@19.2.8)
+      react-dnd: 16.0.1(@types/node@26.4.1)(@types/react@19.2.17)(react@19.2.8)
+      react-dnd-preview: 8.1.2(react-dnd@16.0.1(@types/node@26.4.1)(@types/react@19.2.17)(react@19.2.8))(react@19.2.8)
       react-dom: 19.2.8(react@19.2.8)
 
-  react-dnd-preview@8.1.2(react-dnd@16.0.1(@types/node@26.1.1)(@types/react@19.2.17)(react@19.2.8))(react@19.2.8):
+  react-dnd-preview@8.1.2(react-dnd@16.0.1(@types/node@26.4.1)(@types/react@19.2.17)(react@19.2.8))(react@19.2.8):
     dependencies:
       react: 19.2.8
-      react-dnd: 16.0.1(@types/node@26.1.1)(@types/react@19.2.17)(react@19.2.8)
+      react-dnd: 16.0.1(@types/node@26.4.1)(@types/react@19.2.17)(react@19.2.8)
 
   react-dnd-touch-backend@16.0.1:
     dependencies:
       '@react-dnd/invariant': 4.0.2
       dnd-core: 16.0.1
 
-  react-dnd@16.0.1(@types/node@26.1.1)(@types/react@19.2.17)(react@19.2.8):
+  react-dnd@16.0.1(@types/node@26.4.1)(@types/react@19.2.17)(react@19.2.8):
     dependencies:
       '@react-dnd/invariant': 4.0.2
       '@react-dnd/shallowequal': 4.0.2
@@ -18584,7 +18625,7 @@ snapshots:
       hoist-non-react-statics: 3.3.2
       react: 19.2.8
     optionalDependencies:
-      '@types/node': 26.1.1
+      '@types/node': 26.4.1
       '@types/react': 19.2.17
 
   react-docgen-typescript@2.4.0(typescript@6.0.3):
@@ -18630,7 +18671,7 @@ snapshots:
 
   react-is@17.0.2: {}
 
-  react-mosaic-component@6.2.0(@types/node@26.1.1)(@types/react@19.2.17)(dnd-core@16.0.1)(react-dom@19.2.8(react@19.2.8))(react@19.2.8):
+  react-mosaic-component@6.2.0(@types/node@26.4.1)(@types/react@19.2.17)(dnd-core@16.0.1)(react-dom@19.2.8(react@19.2.8))(react@19.2.8):
     dependencies:
       classnames: 2.5.1
       immutability-helper: 3.1.1
@@ -18638,9 +18679,9 @@ snapshots:
       prop-types: 15.8.1
       rdndmb-html5-to-touch: 8.1.2(dnd-core@16.0.1)
       react: 19.2.8
-      react-dnd: 16.0.1(@types/node@26.1.1)(@types/react@19.2.17)(react@19.2.8)
+      react-dnd: 16.0.1(@types/node@26.4.1)(@types/react@19.2.17)(react@19.2.8)
       react-dnd-html5-backend: 16.0.1
-      react-dnd-multi-backend: 8.1.2(dnd-core@16.0.1)(react-dnd@16.0.1(@types/node@26.1.1)(@types/react@19.2.17)(react@19.2.8))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
+      react-dnd-multi-backend: 8.1.2(dnd-core@16.0.1)(react-dnd@16.0.1(@types/node@26.4.1)(@types/react@19.2.17)(react@19.2.8))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       react-dnd-touch-backend: 16.0.1
       uuid: 9.0.1
     transitivePeerDependencies:
@@ -19264,7 +19305,7 @@ snapshots:
 
   strip-ansi@7.1.2:
     dependencies:
-      ansi-regex: 6.1.0
+      ansi-regex: 6.3.0
 
   strip-ansi@7.2.0:
     dependencies:
@@ -19464,7 +19505,7 @@ snapshots:
 
   ts-declaration-location@1.0.7(typescript@6.0.3):
     dependencies:
-      picomatch: 4.0.5
+      picomatch: 4.0.7
       typescript: 6.0.3
     optional: true
 
@@ -19630,14 +19671,14 @@ snapshots:
 
   universalify@2.0.1: {}
 
-  unplugin-vue@7.2.0(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(vue@3.5.39(typescript@6.0.3))(yaml@2.9.0):
+  unplugin-vue@7.2.0(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(vue@3.5.39(typescript@6.0.3))(yaml@2.9.0):
     dependencies:
       '@jridgewell/gen-mapping': 0.3.13
       '@jridgewell/trace-mapping': 0.3.31
       '@vue/reactivity': 3.5.34
       obug: 2.1.1
       unplugin: 3.0.0
-      vite: 8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)
+      vite: 8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)
       vue: 3.5.39(typescript@6.0.3)
     transitivePeerDependencies:
       - '@types/node'
@@ -19764,7 +19805,7 @@ snapshots:
       tsx: 4.22.4
       yaml: 2.9.0
 
-  vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0):
+  vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0):
     dependencies:
       lightningcss: 1.32.0
       picomatch: 4.0.5
@@ -19772,7 +19813,7 @@ snapshots:
       rolldown: 1.0.0-rc.18
       tinyglobby: 0.2.17
     optionalDependencies:
-      '@types/node': 26.1.1
+      '@types/node': 26.4.1
       esbuild: 0.28.1
       fsevents: 2.3.3
       jiti: 2.7.0
@@ -19781,7 +19822,7 @@ snapshots:
       tsx: 4.22.4
       yaml: 2.9.0
 
-  vitest@4.1.10(@types/node@26.1.0)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.0)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)):
+  vitest@4.1.10(@types/node@26.1.0)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.0)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)):
     dependencies:
       '@vitest/expect': 4.1.10
       '@vitest/mocker': 4.1.10(vite@8.0.11(@types/node@26.1.0)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
@@ -19806,15 +19847,15 @@ snapshots:
     optionalDependencies:
       '@types/node': 26.1.0
       '@vitest/coverage-istanbul': 4.1.10(vitest@4.1.10)
-      happy-dom: 20.10.6
+      happy-dom: 20.14.0
       jsdom: 29.1.1
     transitivePeerDependencies:
       - msw
 
-  vitest@4.1.10(@types/node@26.1.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.10.6)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)):
+  vitest@4.1.10(@types/node@26.4.1)(@vitest/coverage-istanbul@4.1.10)(happy-dom@20.14.0)(jsdom@29.1.1)(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)):
     dependencies:
       '@vitest/expect': 4.1.10
-      '@vitest/mocker': 4.1.10(vite@8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
+      '@vitest/mocker': 4.1.10(vite@8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0))
       '@vitest/pretty-format': 4.1.10
       '@vitest/runner': 4.1.10
       '@vitest/snapshot': 4.1.10
@@ -19831,12 +19872,12 @@ snapshots:
       tinyexec: 1.2.4
       tinyglobby: 0.2.17
       tinyrainbow: 3.1.0
-      vite: 8.0.11(@types/node@26.1.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)
+      vite: 8.0.11(@types/node@26.4.1)(esbuild@0.28.1)(jiti@2.7.0)(sass@1.87.0)(terser@5.47.1)(tsx@4.22.4)(yaml@2.9.0)
       why-is-node-running: 2.3.0
     optionalDependencies:
-      '@types/node': 26.1.1
+      '@types/node': 26.4.1
       '@vitest/coverage-istanbul': 4.1.10(vitest@4.1.10)
-      happy-dom: 20.10.6
+      happy-dom: 20.14.0
       jsdom: 29.1.1
     transitivePeerDependencies:
       - msw
@@ -20039,7 +20080,7 @@ snapshots:
 
   ws@8.21.0: {}
 
-  ws@8.21.1: {}
+  ws@8.21.3: {}
 
   wsl-utils@0.1.0:
     dependencies:
