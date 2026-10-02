@@ -375,3 +375,7 @@ Univer is supported by the community and sponsors. You can support the project t
 Copyright (c) 2021-present DreamNum Co., Ltd.
 
 Licensed under the [Apache-2.0](./LICENSE) license.
+
+---
+
+Built by Girish Lade — https://ladestack.in
